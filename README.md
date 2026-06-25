@@ -135,15 +135,16 @@ Payment method preferences.
 📂 Repository Structure
 Ola-Ride-Booking-Dashboard/
 │
+├── dataset/
 ├── Ola Dashboard.pbix
-├── README.md
-├── screenshots/
+├── screenshots.pdf/
 │   ├── overall.png
 │   ├── vehicle_type.png
 │   ├── revenue.png
 │   ├── cancellation.png
 │   └── ratings.png
-└── dataset/
+├── Ola Query file
+└── README.md
 
 🚀 How to Use
 Download the .pbix file.
