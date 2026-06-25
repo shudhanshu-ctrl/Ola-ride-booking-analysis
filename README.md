@@ -143,7 +143,7 @@ Ola-Ride-Booking-Dashboard/
 │   ├── revenue.png
 │   ├── cancellation.png
 │   └── ratings.png
-├── Ola Query file
+├── Ola Query file.sql
 └── README.md
 
 🚀 How to Use
