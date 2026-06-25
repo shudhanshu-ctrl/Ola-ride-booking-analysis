@@ -107,12 +107,15 @@ Insights:
 Best-performing vehicle categories.
 Customer satisfaction levels.
 Driver service quality comparison.
+
+
 🛠 Tools & Technologies
 Power BI Desktop
 Power Query
 DAX
 Data Modeling
 Interactive Visualizations
+
 📈 KPIs Tracked
 Total Bookings
 Total Revenue
@@ -124,6 +127,7 @@ Driver Ratings
 Cancellation Rate
 Revenue by Payment Method
 Revenue by Vehicle Type
+
 🔍 Key Insights
 Revenue concentration across vehicle segments.
 Customer booking behavior patterns.
