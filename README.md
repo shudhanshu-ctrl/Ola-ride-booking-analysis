@@ -1,11 +1,12 @@
 Ola Ride Booking Dashboard | Power BI
-📌 Project Overview
+📌 Project Overview:
 
 This Power BI dashboard provides a comprehensive analysis of Ola ride booking operations. The report helps monitor booking trends, revenue performance, ride cancellations, vehicle-wise performance, and customer/driver ratings.
 
 The dashboard is designed to transform raw ride-booking data into actionable business insights for operational and strategic decision-making.
 
-🎯 Business Objectives
+🎯 Business Objectives:
+
 Track overall booking performance.
 Analyze revenue generation patterns.
 Monitor cancellation behavior.
@@ -13,7 +14,8 @@ Compare vehicle type performance.
 Evaluate customer and driver satisfaction ratings.
 Identify trends and operational bottlenecks.
 
-📊 Dashboard Pages
+📊 Dashboard Pages:
+
 
 1️⃣ Overall Analysis
 Key metrics covered:
@@ -30,7 +32,8 @@ Daily booking volume trends.
 Revenue performance overview.
 Successful vs cancelled ride analysis.
 
-2️⃣ Vehicle Type Analysis
+2️⃣ Vehicle Type Analysis:
+
 Vehicle-wise performance comparison:
 
 Prime Sedan
@@ -54,7 +57,8 @@ Highest revenue-generating vehicle category.
 Most frequently used vehicle type.
 Distance contribution by each vehicle segment.
 
-3️⃣ Revenue Analysis
+3️⃣ Revenue Analysis:
+
 Revenue breakdown by:
 
 Payment Method
@@ -73,7 +77,8 @@ Most preferred payment methods.
 Revenue contribution across vehicle categories.
 High-value customer identification.
 
-4️⃣ Cancellation Analysis
+4️⃣ Cancellation Analysis:
+
 Cancellation tracking from both perspectives:
 
 Customer Cancellations
@@ -94,7 +99,8 @@ Major cancellation drivers.
 Vehicle categories with highest cancellation rates.
 Operational improvement opportunities.
 
-5️⃣ Ratings Analysis
+5️⃣ Ratings Analysis:
+
 Performance evaluation based on:
 
 Customer Ratings
@@ -109,14 +115,16 @@ Customer satisfaction levels.
 Driver service quality comparison.
 
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies:
+
 Power BI Desktop
 Power Query
 DAX
 Data Modeling
 Interactive Visualizations
 
-📈 KPIs Tracked
+📈 KPIs Tracked:
+
 Total Bookings
 Total Revenue
 Booking Status
@@ -128,7 +136,8 @@ Cancellation Rate
 Revenue by Payment Method
 Revenue by Vehicle Type
 
-🔍 Key Insights
+🔍 Key Insights:
+
 Revenue concentration across vehicle segments.
 Customer booking behavior patterns.
 Cancellation trends and reasons.
@@ -136,7 +145,8 @@ Vehicle-wise operational efficiency.
 Service quality based on ratings.
 Payment method preferences.
 
-📂 Repository Structure
+📂 Repository Structure:
+
 Ola-Ride-Booking-Dashboard/
 │
 ├── dataset/
@@ -150,7 +160,8 @@ Ola-Ride-Booking-Dashboard/
 ├── Ola Query file.sql
 └── README.md
 
-🚀 How to Use
+🚀 How to Use:
+
 Download the .pbix file.
 Open in Power BI Desktop.
 Refresh data if required.
