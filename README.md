@@ -170,7 +170,7 @@ Refresh data if required.
 
 Explore interactive filters and visuals.
 
-📷 Dashboard Preview
+
 
 👨‍💻 Author
 
