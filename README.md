@@ -163,9 +163,13 @@ Ola-Ride-Booking-Dashboard/
 🚀 How to Use:
 
 Download the .pbix file.
+
 Open in Power BI Desktop.
+
 Refresh data if required.
+
 Explore interactive filters and visuals.
+
 📷 Dashboard Preview
 
 👨‍💻 Author
